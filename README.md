@@ -13,7 +13,7 @@ GPT-4o是OpenAI推出的最新版本模型，能够实时处理文本、音频�
 
 ## 如何使用GPT-4o
 
-要使用GPT-4o，可以访问以下链接：[GPT-4o模型访问](https://chatgpt.com/?model=gpt-4o)。
+要使用GPT-4o，可以访问以下链接：[GPT-4o模型访问](https://chatgpt.com/?model=gpt-4o)
 
 1. 登录您的ChatGPT账号。如果还没有账号，可以先注册ChatGPT账号（注意：别使用微软邮箱，风控较高）。
 2. 登录后，您会看到GPT-4o的欢迎界面，选择该模型即可开始使用。
